@@ -10,7 +10,7 @@ print("------------------")
 # You can assign a multiline string to a variable by using three quotes
 # we  can use three double quotes and three single quotes:
 print("Multiline string")
-a= a = """Lorem ipsum dolor sit amet,
+a = """Lorem ipsum dolor sit amet,
 consectetur adipiscing elit,
 sed do eiusmod tempor incididunt
 ut labore et dolore magna aliqua."""
